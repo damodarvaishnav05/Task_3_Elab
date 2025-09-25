@@ -6,6 +6,7 @@ The headlines are saved into a text file (headlines.txt) for easy reading.
 
 
 
+
 ⚙️ Features
 -Fetches live news headlines using requests
 
@@ -14,6 +15,7 @@ The headlines are saved into a text file (headlines.txt) for easy reading.
 -Saves all headlines into a .txt file
 
 -Handles errors (like failed requests)
+
 
 
 
