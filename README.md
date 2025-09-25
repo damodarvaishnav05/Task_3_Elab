@@ -1,22 +1,16 @@
 📰 News Headlines Web Scraper
 
 📌 Overview
-This is a Python script that automatically scrapes the latest news headlines from a public website (BBC News).
-The headlines are saved into a text file (headlines.txt) for easy reading.
-
-
+This is a Python script that automatically scrapes the latest news headlines
+from a public website (BBC News).The headlines are saved into a text file 
+(headlines.txt) for easy reading.
 
 
 ⚙️ Features
--Fetches live news headlines using requests
-
--Extracts headlines with BeautifulSoup
-
--Saves all headlines into a .txt file
-
--Handles errors (like failed requests)
-
-
+-Fetches live news headlines using requests,
+-Extracts headlines with BeautifulSoup,
+-Saves all headlines into a .txt file,
+-Handles errors (like failed requests).
 
 
 🛠️ Tools & Libraries
@@ -28,15 +22,14 @@ BeautifulSoup (bs4)
 
 
 📂 Files
--news_scraper.py → Main Python script
--headlines.txt → Output file containing the news headlines
--README.md → This file
-
+-news_scraper.py → Main Python script,
+-headlines.txt → Output file containing the news headlines,
+-README.md → This file.
 
 
 📚 Key Learning Concepts
-1.HTTP requests
-2.Web scraping
+1.HTTP requests,
+2.Web scraping,
 3.HTML parsing with BeautifulSoup
 
 
