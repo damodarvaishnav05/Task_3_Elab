@@ -22,7 +22,7 @@ BeautifulSoup (bs4)
 
 
 📂 Files
--news_scraper.py → Main Python script,
+-W_S_N_H.py → Main Python script,
 -headlines.txt → Output file containing the news headlines,
 -README.md → This file.
 
